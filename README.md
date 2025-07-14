@@ -39,9 +39,9 @@
 
 ## Results
 #### Visualization results
-![outline](image/visual.png)
+![outline](Fig/visual.png)
 #### 3D visualization results
-![outline](image/3D.png)
+![outline](Fig/3D.png)
 
 #### Quantitative Results on NUAA-SIRST, IRSTD-1K, NUDT-SIRST and SIRSTAUG
 
