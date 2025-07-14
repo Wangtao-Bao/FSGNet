@@ -1,6 +1,6 @@
 # FSGNet: A Frequency-Aware and Semantic Guidance Network for Infrared Small Target Detection
 
-**We are preparing to submit the paper for review and will provide code after publication.**
+**We have submitted the paper for review and will make the code available after publication.**
 
 ## Recommended Environment
  - [ ] python  3.11.7
