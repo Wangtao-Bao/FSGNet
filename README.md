@@ -39,9 +39,9 @@
 
 ## Results
 #### Visualization results
-![outline](image/visual.emf)
+![outline](image/visual.png)
 #### 3D visualization results
-![outline](image/3D.emf)
+![outline](image/3D.png)
 
 #### Quantitative Results on NUAA-SIRST, IRSTD-1K, NUDT-SIRST and SIRSTAUG
 
@@ -51,7 +51,7 @@
 | IRSTD-1K      | 72.45  | 68.04  |  92.93 | 5.43 |
 | NUDT-SIRST    | 93.78  | 94.14  |  99.26 | 4.89  |
 | SIRSTAUG      | 75.69  | 71.70  |  98.76 | 14.36  |
-| [[weights]](https://drive.google.com/file/d/1d-RAINGfIoPxOoxcM2moCqVkM9lEanzo/view?usp=sharing)|
+| [[weights]](https://drive.google.com/file/d/136sW5ahXOFkKKF4i3e3Nc3Vm3N_3OWjv/view?usp=sharing)|
 
 *This code is highly borrowed from [SCTransNet](https://github.com/xdFai/SCTransNet). Thanks to Shuai Yuan.
 
