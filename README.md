@@ -51,7 +51,6 @@ On May 5, 2026, our paper was officially accepted by the ***Expert Systems with 
 | IRSTD-1K      | 72.45  | 68.04  |  92.93 | 5.43 |
 | NUDT-SIRST    | 93.78  | 94.14  |  99.26 | 4.89  |
 | SIRSTAUG      | 75.69  | 71.70  |  98.76 | 14.36  |
-| [[weights]](https://drive.google.com/file/d/136sW5ahXOFkKKF4i3e3Nc3Vm3N_3OWjv/view?usp=sharing)|
 
 *This code is highly borrowed from [SCTransNet](https://github.com/xdFai/SCTransNet). Thanks to Shuai Yuan.
 
